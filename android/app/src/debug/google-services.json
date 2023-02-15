@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15519282040",
+    "project_id": "fluttter-login-app",
+    "storage_bucket": "fluttter-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15519282040:android:5848cf83fd5bab88a9ce8d",
+        "android_client_info": {
+          "package_name": "com.example.switchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15519282040-9mj2pg9o51spk4cafjehgs3ntdh0u8ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfincVvfOE8groldljqbzAQ0sgNlVMtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15519282040-9mj2pg9o51spk4cafjehgs3ntdh0u8ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
